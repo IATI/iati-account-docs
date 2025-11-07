@@ -20,25 +20,27 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: IATI Account
+    :caption: Home
 
-    Home <self>
+    About <self>
     IATI Registry Migration <registry>
 
 
 
 .. toctree::
+   :hidden:
    :titlesonly:
    :maxdepth: 3
-   :caption: Manage Your Account
+   :caption: Managing Your Account
 
    Registration <registration>
-   Managing Your Information <manage_info>
-   Adding a Data File <data_file>
+   Organisation Information <manage_info>
+   IATI Data Files <data_file>
 
 
 
 .. toctree::
+   :hidden:
    :titlesonly:
    :maxdepth: 2
    :caption: Developer Documentation
