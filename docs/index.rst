@@ -9,16 +9,11 @@ IATI Account Documentation
 
 An IATI Account lets you manage the information that IATI holds about you and your organisation. If your organisation reports IATI data, you can manage the location of the data via your account as well. 
 
-An IATI Account lets you log in to IATI Publisher. No other IATI services support IATI Account. 
+What services are supported?
+----------------------------
+You can sign in to `IATI Publisher <https://publisher.iatistandard.org/>`_ with your IATI Account. 
 
-.. attention::
-
-   The IATI Secretariat is working to integrate all IATI services with IATI Account. While this work continues, existing login methods will continue to work. 
-
-
- 
-
-
+No other IATI services support IATI Account yet, but the IATI Secretariat is planning to integrate more. While this work continues, existing login methods will continue to work. 
 
 
 .. toctree::
@@ -35,7 +30,7 @@ An IATI Account lets you log in to IATI Publisher. No other IATI services suppor
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Your IATI Account
+    :caption: Managing your account
 
    Registration <registration>
    Managing Your Information <manage_info>
@@ -46,6 +41,6 @@ An IATI Account lets you log in to IATI Publisher. No other IATI services suppor
    :titlesonly:
    :maxdepth: 1
    :caption: Developer documentation
-   :hidden:
 
+   Register Your Data API <ryd_api>
    OIDC
