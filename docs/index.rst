@@ -44,7 +44,7 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :caption: Organisation Information
 
    Add your organisation <manage_info>
-   Edit organisation users <manage_users>
+   Manage organisation users <manage_users>
    Manage IATI data files <data_file>
 
 
