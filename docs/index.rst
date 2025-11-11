@@ -7,44 +7,51 @@ IATI Account Documentation
 
    This documentation supports the new IATI Account service, which is not yet live. This warning will be removed when the service is live. 
 
+An IATI Account lets you manage the information that IATI holds about you and your organisation. If your organisation reports IATI data, you can manage information about your data files via your account as well. 
 
-You can sign up for an IATI Account at TODO: add link. 
+Which IATI tools are supported?
+------------------------------
+You can sign in to `IATI Publisher <https://publisher.iatistandard.org/>`_ with your IATI Account. 
 
-An IATI Account lets you manage the information that IATI holds about you and your organisation. If your organisation reports using IATI, you can manage the location of the data via your account as well. 
-
-An IATI Account lets you log in to IATI Publisher. No other IATI services support IATI Account. 
-
-.. attention::
-
-   The IATI Secretariat is working to integrate all IATI services with IATI Account. While this work continues, existing login methods will continue to work. 
-
-
- 
-
-
+No other IATI services support IATI Account yet, but the IATI Secretariat is planning to integrate more. While this work continues, existing login methods will continue to work. 
 
 
 .. toctree::
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: IATI Account
+    :caption: Home
 
-    Home <self>
-
-.. toctree::
-    :hidden:
-    :titlesonly:
-    :maxdepth: 3
-    :caption: IATI Registry Migration
-    
+    About <self>
     IATI Registry Migration <registry>
 
 
-.. toctree::
-   :titlesonly:
-   :maxdepth: 1
-   :caption: Developers
-   :hidden:
 
-   OIDC
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: Managing Your Account
+
+   Register with IATI <registration>
+   Edit your profile <edit_profile>
+
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: Organisation Information
+
+   Add your organisation <manage_info>
+   Manage organisation users <manage_users>
+   Manage IATI data files <data_file>
+
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 2
+   :caption: Developer Documentation
+
+   Register Your Data API <ryd_api>
