@@ -33,10 +33,19 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :maxdepth: 3
    :caption: Managing Your Account
 
-   Registration <registration>
-   Organisation Information <manage_info>
-   IATI Data Files <data_file>
+   Register with IATI <registration>
+   Edit your profile <edit_profile>
 
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: Organisation Information
+
+   Add your organisation <manage_info>
+   Edit organisation users <manage_users>
+   Manage IATI data files <data_file>
 
 
 .. toctree::
@@ -46,4 +55,3 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :caption: Developer Documentation
 
    Register Your Data API <ryd_api>
-   OIDC <oidc>
