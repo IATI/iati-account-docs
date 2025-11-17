@@ -1,4 +1,34 @@
 Manage your organisation's users
 =================================
 
-[TO ADD: Information on how an organisation admin can manage the users associated with their organisation]
+Only users that are associated with your organisation in IATI Account will be able to make changes to your organisation's information and datasets.
+
+When signed in to IATI Account, you can view the list of users associated with your organisations on the [TO ADD: Org user page]
+
+User permissions
+-----------------
+There are three different permission levels that a user can have within an organisation:
+
+* Contributor - this is the lowest permission level. Contributors can publish or update datasets.
+
+* Editor - In addition to contributor permissions, editors can delete datasets and update their organisation's information.
+
+* Admin - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's datasets.
+
+Admin users can change other users' permission levels at any time via the [TO ADD: Org user page]
+
+We encourage admins to regularly check the list of users associated with their organisation to ensure that it is up to date.
+
+
+Approving a new user
+----------------------
+All new users should follow the `instructions on how to register with IATI <https://iati-iati-account-docs.readthedocs-hosted.com/en/latest/registration/>_`.
+
+When a user has registered with IATI and requested to join an existing organisation, all admin users of that organisation will receive an email notification. 
+
+One of the admin users will need to approve the new user's request, which will grant them access to the organisation's information and datasets.
+
+
+Removing a user
+-----------------
+If a user has left your organisation, an admin user can delete their account via the [TO ADD: Org user page]
