@@ -31,4 +31,4 @@ One of the admin users will need to approve the new user's request, which will g
 
 Removing a user
 -----------------
-If a user has left your organisation, an admin user can delete their account via the [TO ADD: Org user page]
+If someone has left your organisation, an organisation admin can delete their account via the [TO ADD: Org user page]
