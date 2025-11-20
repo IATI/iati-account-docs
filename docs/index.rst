@@ -45,7 +45,7 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
 
    Your organisation's account <manage_organisation_info>
    Add or edit users <manage_organisation_users>
-   Manage IATI data files <data_file>
+   Manage your data files <manage_data_files>
 
 
 .. toctree::
