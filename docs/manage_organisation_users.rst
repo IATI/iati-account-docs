@@ -24,7 +24,7 @@ We encourage admins to regularly check the list of users associated with their o
 
 Approving a new user
 ----------------------
-All new users should follow the `instructions on how to register with IATI <https://iati-iati-account-docs.readthedocs-hosted.com/en/latest/registration/>`_.
+All new users should follow the :ref:`instructions on how to register with IATI <user_new_registration>`.
 
 When a user has registered with IATI and requested to join an existing organisation, all admin users of that organisation will receive an email notification. 
 
