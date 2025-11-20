@@ -1,3 +1,5 @@
+.. _`user_new_registration`:
+=======================
 Registering with IATI
 =======================
 
