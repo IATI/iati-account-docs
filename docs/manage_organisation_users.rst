@@ -11,11 +11,11 @@ User permissions
 -----------------
 There are three different permission levels that a user can have within an organisation:
 
-* Contributor - this is the lowest permission level. Contributors can add data files or update file metadata.
+* **Contributor** - this is the lowest permission level. Contributors can add data files or update file metadata.
 
-* Editor - In addition to contributor permissions, editors can delete data files and update their organisation's information.
+* **Editor** - In addition to contributor permissions, editors can delete data files and update their organisation's information.
 
-* Admin - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
+* **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
 
 Admin users can change other users' permission levels at any time via the [TO ADD: Org user page]
 
@@ -28,9 +28,4 @@ All new users should follow the `instructions on how to register with IATI <http
 
 When a user has registered with IATI and requested to join an existing organisation, all admin users of that organisation will receive an email notification. 
 
-One of the admin users will need to approve the new user's request, which will grant them access to the organisation's information and datasets.
-
-
-Removing a user
------------------
-If someone has left your organisation, an organisation admin can delete their account via the [TO ADD: Org user page]
+One of the admin users will need to approve the new user's request, which will grant them access to the organisation's information and data files.
