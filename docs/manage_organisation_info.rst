@@ -10,4 +10,4 @@ Here, you can edit the following:
 
 To edit your organisation's IATI organisation identifier, please contact the `IATI team <https://iatistandard.org/en/guidance/get-support/>`_.
 
-To edit the users associated with your organisation, see :ref:`Managing your organisation's users <manage_organisation_users>`.
+To edit the users associated with your organisation, see `Managing your organisation's users <../manage_organisation_users>`_
