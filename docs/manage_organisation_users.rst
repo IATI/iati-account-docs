@@ -1,3 +1,5 @@
+.. _manage_organisation_users:
+===================================
 Managing your organisation's users
 ===================================
 
