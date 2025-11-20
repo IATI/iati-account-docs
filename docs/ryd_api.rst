@@ -5,5 +5,5 @@ The Register Your Data API allows you to read and update information about your 
 
 See the `Register Your Data API documentation <https://docs.unified-platform.iatistandard.org/en/latest/register-your-data-api/>`_ for more information.
 
-Developers can enable users, with an IATI account, to log into their application via OIDC. This allows use of IATI APIs including Register My Data. See [Developer Guide] for more information.
+Developers can enable users that have an IATI account to log into their application via IATI single sign on. This allows use of IATI APIs such as Register My Data. See our `Developer Guide <https://docs.unified-platform.iatistandard.org/en/latest/developer-guide-registry-replacement/>`_ for more information.
 

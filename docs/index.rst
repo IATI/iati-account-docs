@@ -33,8 +33,8 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :maxdepth: 3
    :caption: Managing Your Account
 
-   Register with IATI <registration>
-   Edit your profile <edit_profile>
+   Register with IATI <register_with_iati>
+   Edit your user profile <edit_profile>
 
 
 .. toctree::
@@ -43,8 +43,8 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :maxdepth: 3
    :caption: Organisation Information
 
-   Add your organisation <manage_info>
-   Manage organisation users <manage_users>
+   Your organisation's account <manage_organisation_info>
+   Add or edit users <manage_organisation_users>
    Manage IATI data files <data_file>
 
 
