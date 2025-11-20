@@ -3,7 +3,8 @@ Managing your organisation's account
 
 You can view your organisation information on the [TO DO: Add organisation page]
 
-Here, you can edit the following:
+Here, any admin user from your organisation can edit the following:
+
 - Organisation name
 - Country of headquarters
 - Organisation type
