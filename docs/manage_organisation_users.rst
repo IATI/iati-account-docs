@@ -1,4 +1,4 @@
-.. _manage_organisation_users:
+.. _`manage_org_users`:
 ===================================
 Managing your organisation's users
 ===================================
