@@ -33,7 +33,7 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :maxdepth: 3
    :caption: Managing Your Account
 
-   Register with IATI <registration>
+   Register with IATI <register_with_iati>
    Edit your user profile <edit_profile>
 
 
