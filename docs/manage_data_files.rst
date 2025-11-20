@@ -28,4 +28,6 @@ To edit the metadata for one of your files, click on its name in the "IATI Datas
 
 Click "Edit", change the necessary information, then save.
 
-If you need to make edits to the metadata of a large number of data files, see more information here on `bulk edits to data file metadata <https://docs.account.iatistandard.org/en/latest/bulk_edits/>`_.
+.. attention::
+
+   IATI Account does not offer a CSV import option for uploading information on multiple data files at once, unlike the IATI Registry. If you need to add or edit a large number of files, please `contact us for advice <https://iatistandard.org/en/guidance/get-support/>`_.
