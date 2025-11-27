@@ -40,10 +40,11 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
 .. toctree::
    :hidden:
    :titlesonly:
-   :maxdepth: 3
-   :caption: Organisation Information
+   :maxdepth: 4
+   :caption: Your Organisation
 
-   Your organisation's account <manage_organisation_info>
+   Create an organisation <create_organisation>
+   Organisation information <manage_organisation_info>
    Add or edit users <manage_organisation_users>
    Manage your data files <manage_data_files>
 
