@@ -1,3 +1,4 @@
+.. _`create_organisation`:
 ===================================
 Adding yourself to an organisation
 ===================================
