@@ -13,17 +13,5 @@ After signing in to IATI Account for the first time, you will be prompted to com
     :alt: Screenshot of the onboarding survey that a new user sees when they sign in to IATI Account
 
 
-Adding yourself to an organisation
------------------------------------
-If you plan to publish IATI data, you will be prompted to select or add your organisation.
 
-If your organisation is already registered with IATI, simply search for it and select it. 
-
-If your organisation is not registered with IATI yet, create a new organisation to enter information about it.
-
-
-Organisation approval
------------------------------
-New organisations require approval from IATI Support. We will check your unique IATI organisation identifier and ensure that your organisation is not already registered.
-
-`Contact us <https://iatistandard.org/en/guidance/get-support/>`_ if you have not received an email within two working days about your organisation's registration.
+See guidance on :ref:`how to add yourself to an organisation <create_organisation>` if you want to publish IATI data.
