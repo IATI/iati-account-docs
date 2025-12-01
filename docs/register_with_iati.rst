@@ -3,7 +3,11 @@
 Registering with IATI
 =======================
 
-You can sign up for an IATI Account at [TODO: add link].
+.. caution::
+
+   IATI Account is not yet available. It is due to be released during the week 1-5th December 2025. This warning will be removed when the service is live. 
+
+You can sign up for an IATI Account at [link].
 
 After creating your user account, you can add yourself to your organisation. If your organisation is already registered with IATI, simply search for it and select it. 
 
