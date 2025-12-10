@@ -1,10 +1,10 @@
-Managing your organisation's account
-=====================================
+Managing your organisation information
+=======================================
 .. caution::
 
    IATI Account is not yet available. It is due to be released during the second week of December 2025. This warning will be removed when the service is live. 
 
-You can view your organisation information on the `"My Data" page` <https://account.iatistandard.org/en/data/>_:
+You can view your organisation information on the `"My Data" page <https://account.iatistandard.org/en/data/>`_ :
 
 .. figure:: images/my_data_page.png
     :width: 100 %
