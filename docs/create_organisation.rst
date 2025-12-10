@@ -7,7 +7,13 @@ If you plan to publish IATI data, you will be prompted to select or add your org
 
 If your organisation is already registered with IATI, simply search for it and select it.
 
-If your organisation is not registered with IATI yet, there is the option to "create an organisation".
+If your organisation is not registered with IATI yet, there is the option to "create an organisation":
+
+.. figure:: images/create_organisation.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the data entry form to create a new organisation.
+
 
 .. note::
 
