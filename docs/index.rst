@@ -5,9 +5,9 @@ IATI Account Documentation
 
 .. caution::
 
-   This documentation supports the new IATI Account service, which is due to be released during the week 1-5th December 2025. This warning will be removed when the service is live. 
+   This documentation supports the new IATI Account service, which is due to be released in the second week of December 2025. This warning will be removed when the service is live. 
 
-IATI Account lets you manage the information that IATI holds about you and your organisation. If your organisation reports IATI data, you can manage information about your data files via IATI Account as well. 
+`IATI Account <https://account.iatistandard.org/>`_ lets you manage the information that IATI holds about you and your organisation. If your organisation reports IATI data, you can manage information about your data files via IATI Account as well. 
 
 Which IATI tools are supported?
 ------------------------------
