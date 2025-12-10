@@ -5,16 +5,22 @@ Registering with IATI
 
 .. caution::
 
-   IATI Account is not yet available. It is due to be released during the week 1-5th December 2025. This warning will be removed when the service is live. 
+   IATI Account is not yet available. It is due to be released during the second week of December 2025. This warning will be removed when the service is live. 
 
-You can sign up for an IATI Account at [link].
+To register with IATI, click "Create account" on the `IATI Account homepage <https://account.iatistandard.org/>`_:
 
-After creating your user account, you can add yourself to your organisation. If your organisation is already registered with IATI, simply search for it and select it. 
+.. figure:: images/iati_account_homepage.png
+    :width: 50 %
+    :align: center
+    :alt: To register with IATI, use the "Create account" button on the IATI Account homepage
 
-Creating an organisation
-------------------------
-If your organisation is not registered with IATI yet, you’ll be prompted to create a new organisation and enter information about it.
+You will be asked to verify your account by entering a 6 digit authentication code sent to your email address.
 
-New organisations require approval from IATI Support, who will check your unique IATI organisation identifier and ensure that your organisation is not already registered. 
+After signing in to IATI Account for the first time, you will be prompted to complete an onboarding survey. Information collected here will help us signpost you to the most relevant tools and services.
 
-`Contact us <https://iatistandard.org/en/guidance/get-support/>`_ if you have not heard back within two working days about your organisation's registration.
+.. figure:: images/onboarding_survey.png
+    :width: 100 %
+    :align: center
+    :alt: Screenshot of the onboarding survey that a new user sees when they sign in to IATI Account
+
+See guidance on :ref:`how to add yourself to an organisation <create_organisation>` if you want to publish IATI data.
