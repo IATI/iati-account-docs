@@ -1,9 +1,9 @@
 IATI Registry Migration
 =======================
 
-We will be replacing the `IATI Registry <https://iatiregistry.org/>`_ during the week 1-5th December. During this time, you won’t be able to log in or make any changes to your organisation information or IATI data file metadata.
+We will be replacing the `IATI Registry <https://iatiregistry.org/>`_ during the first two weeks of December 2025. During this time, you won’t be able to log in or make any changes to your organisation information or IATI data file metadata.
 
-The current IATI Registry will be permanently replaced by a new tool, IATI Account, along with enhanced functionality on the `IATI Dashboard <https://dashboard.iatistandard.org/>`_. 
+The current IATI Registry will be permanently replaced by a new site, IATI Account, along with enhanced functionality on the `IATI Dashboard <https://dashboard.iatistandard.org/>`_. 
 
 You can find more details about this work here on IATI Connect: `IATI Registry Relaunch (Dec 2025) <https://www.iaticonnect.org/technical-cop/stream/topic/iati-registry-relaunch-scheduled-dec-2025>`_.
 
