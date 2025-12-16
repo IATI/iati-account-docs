@@ -3,11 +3,7 @@
 Registering with IATI
 =======================
 
-.. caution::
-
-   IATI Account is not yet available. It is due to be released during the second week of December 2025. This warning will be removed when the service is live. 
-
-To register with IATI, click "Create account" on the `IATI Account homepage <https://account.iatistandard.org/>`_:
+To register with IATI, click "Create account", then "Register", on the `IATI Account homepage <https://account.iatistandard.org/>`_:
 
 .. figure:: images/iati_account_homepage.png
     :width: 50 %
