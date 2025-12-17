@@ -23,7 +23,7 @@ There are three different permission levels that a user can have within an organ
 
 * **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
 
-Admin users can change other users' permission levels at any time via the [TO ADD: Org user page]
+Admin users can change other users' permission levels at any time via their organisation's page.
 
 We encourage admins to regularly check the list of users associated with their organisation to ensure that it is up to date.
 
