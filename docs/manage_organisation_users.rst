@@ -5,9 +5,13 @@ Managing your organisation's users
 
 Only admin users from your organisation will be able to make changes to your organisation's user list in IATI Account.
 
-When signed in to IATI Account, you can view the "Add/Edit Users" section at the bottom of your organisation's page:
+When signed in to IATI Account, you can view your organisation's users at the bottom of its overview page:
 
-[TO DO: insert screenshot]
+.. figure:: images/view_org_users.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the users associated with one of our test organisations
+
 
 User permissions
 -----------------
