@@ -11,5 +11,3 @@ What you need to know
 * All existing IATI user accounts, organisations, and dataset information were automatically migrated to the new service.
 
 * You will receive an email with instructions on how to reset your password and sign in to IATI Account for the first time. You will need to do this before you can use IATI Publisher.
-
-* Guidance will be available on this IATI Account docs site to guide you through the new site.
