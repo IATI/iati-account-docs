@@ -10,23 +10,56 @@ IATI Account is where you manage information about your published IATI data file
 
 Viewing your data files
 -------------------------
-You can view a list of your IATI data files on your organisation page in IATI Account.
+To view a list of your IATI data files in IATI Account:
+
+1) Go to the 'My Data' page, and click "View Organisation" :  
+
+.. figure:: images/iati_account_my_data.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the 'My Data' page in IATI Account
+
+
+2)  Click "View Datasets" :
+
+.. figure:: images/view_datasets.png
+    :width: 75 %
+    :align: center
+    :alt: A screenshot of how to view the dataset list for an organisation
 
 
 Adding a new data file
 -------------------------
-To add information about a new IATI data file, click the "Create" button in the "IATI Datasets" section.
+To add information about a new IATI data file for your organisation:
 
-You will be prompted to enter the public URL of your dataset and a short name for it.
+1) Click "Create new dataset" on the 'Datasets' page:
 
-For more information on IATI data files, see `Creating your own data files <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/>`_.
+.. figure:: images/create_new_dataset.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the 'Datasets' page in IATI Account
+
+
+2) Complete the form with information about your new IATI file. This includes its publicly accessible URL:
+
+.. figure:: images/create_new_dataset_form.png
+    :width: 70 %
+    :align: center
+    :alt: A screenshot of the form to complete to add a new data file in IATI Account.
+
+
+For more information about IATI XML files, see `Creating your own data files <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/>`_.
 
 
 Editing a data file
 ---------------------
-To edit the metadata for one of your files, click on its name in the "IATI Datasets" section of your organisation page.
+To edit the metadata for one of your files, click "View/Edit" next to the relevant file on your organisation's 'Datasets' page:
 
-Click "Edit", change the necessary information, then save.
+.. figure:: images/edit_dataset.png
+    :width: 70 %
+    :align: center
+    :alt: A screenshot of how to edit a data file in IATI Account.
+
 
 .. attention::
 
