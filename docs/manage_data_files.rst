@@ -32,7 +32,7 @@ Adding a new data file
 -------------------------
 To add information about a new IATI data file for your organisation:
 
-1) Click "Create a new dataset" on the 'Datasets' page:
+1) Click "Create new dataset" on the 'Datasets' page:
 
 .. figure:: images/create_new_dataset.png
     :width: 100 %
@@ -48,7 +48,7 @@ To add information about a new IATI data file for your organisation:
     :alt: A screenshot of the form to complete to add a new data file in IATI Account.
 
 
-For more information on IATI data files, see `Creating your own data files <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/>`_.
+For more information about IATI XML files, see `Creating your own data files <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/>`_.
 
 
 Editing a data file
