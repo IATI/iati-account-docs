@@ -10,12 +10,32 @@ IATI Account is where you manage information about your published IATI data file
 
 Viewing your data files
 -------------------------
-You can view a list of your IATI data files on your organisation page in IATI Account.
+To view a list of your IATI data files:
+
+1) Go to the 'My Data' page, and click "View Organisation" :  
+
+.. figure:: images/iati_account_my_data.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the 'My Data' page in IATI Account
+
+
+2)  Click "View Datasets" :
+
+.. figure:: images/view_datasets.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of how to view the dataset list for an organisation
 
 
 Adding a new data file
 -------------------------
-To add information about a new IATI data file, click the "Create" button in the "IATI Datasets" section.
+To add information about a new IATI data file, click "Create a new dataset" on the 'Datasets' page:
+
+.. figure:: images/create_new_dataset.png
+    :width: 100 %
+    :align: center
+    :alt: A screenshot of the 'Datasets' page in IATI Account
 
 You will be prompted to enter the public URL of your dataset and a short name for it.
 
