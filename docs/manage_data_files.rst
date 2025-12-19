@@ -1,7 +1,7 @@
 Managing your organisation's IATI data files
 =============================================
 
-IATI Account is where you manage information about your published IATI data files.
+`IATI Account <https://account.iatistandard.org/en/>`_ is where you manage information about your published IATI data files.
 
 .. attention::
 
