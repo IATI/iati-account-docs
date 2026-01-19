@@ -1,6 +1,6 @@
 .. _`manage_org_users`:
 ===================================
-Managing your organisation's users
+Manage your organisation's users
 ===================================
 
 Only admin users from your organisation will be able to make changes to your organisation's user list in IATI Account.
@@ -28,8 +28,8 @@ Admin users can change other users' permission levels at any time via their orga
 We encourage admins to regularly check the list of users associated with their organisation to ensure that it is up to date.
 
 
-Approving a new user
-----------------------
+Approve a new user
+-------------------
 All new users should follow the :ref:`instructions on how to register with IATI <user_new_registration>`.
 
 When a user has registered with IATI and requested to join an existing organisation, all admin users of that organisation will receive an email notification. 
