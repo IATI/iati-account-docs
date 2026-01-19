@@ -1,6 +1,6 @@
 .. _`user_new_registration`:
 =======================
-Registering with IATI
+Register with IATI
 =======================
 
 To register with IATI, click "Create account", then "Register", on the `IATI Account homepage <https://account.iatistandard.org/>`_:

@@ -1,4 +1,4 @@
-Managing your organisation information
+Manage your organisation information
 =======================================
 You can view your organisation information on the `"My Data" page <https://account.iatistandard.org/en/data/>`_ :
 
@@ -9,8 +9,8 @@ You can view your organisation information on the `"My Data" page <https://accou
 
 Any organisations that you are associated with will be listed here.
 
-Editing your organisation information
---------------------------------------
+Edit your organisation information
+-----------------------------------
 
 Any admin user from your organisation can edit the following:
 
@@ -20,4 +20,4 @@ Any admin user from your organisation can edit the following:
 
 To edit your organisation's IATI organisation identifier, please contact the `IATI team <https://iatistandard.org/en/guidance/get-support/>`_.
 
-To edit the users associated with your organisation, see :ref:`Managing your organisation's users <manage_org_users>`.
+To edit the users associated with your organisation, see :ref:`Manage your organisation's users <manage_org_users>`.
