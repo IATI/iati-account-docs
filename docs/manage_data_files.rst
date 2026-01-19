@@ -28,7 +28,7 @@ To view a list of your IATI data files in IATI Account:
     :alt: A screenshot of how to view the dataset list for an organisation
 
 
-Adding a new data file
+Add a new data file
 -------------------------
 To add information about a new IATI data file for your organisation:
 
