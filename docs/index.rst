@@ -43,7 +43,7 @@ No other IATI services support IATI Account yet, but the IATI Secretariat is pla
    :maxdepth: 4
    :caption: Your Organisation
 
-   Create an organisation <create_organisation>
+   Add an organisation <create_organisation>
    Manage organisation information <manage_organisation_info>
    Add or edit users <manage_organisation_users>
    Manage your data files <manage_data_files>
