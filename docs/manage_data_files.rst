@@ -1,14 +1,14 @@
-Managing your organisation's IATI data files
-=============================================
+Manage your organisation's IATI data files
+===========================================
 
 `IATI Account <https://account.iatistandard.org/en/>`_ is where you manage information about your published IATI data files.
 
-.. attention::
+.. warning::
 
    If you use IATI Publisher, it automatically manages your data file information in IATI Account. You should not edit any file metadata yourself in IATI Account.
 
 
-Viewing your data files
+View your data files
 -------------------------
 To view a list of your IATI data files in IATI Account:
 
@@ -51,7 +51,7 @@ To add information about a new IATI data file for your organisation:
 For more information about IATI XML files, see `Creating your own data files <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/creating-files/>`_.
 
 
-Editing a data file
+Edit a data file
 ---------------------
 To edit the metadata for one of your files, click "View/Edit" next to the relevant file on your organisation's 'Datasets' page:
 
