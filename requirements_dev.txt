@@ -136,6 +136,7 @@ requests==2.32.5
     #   -r requirements.txt
     #   jscc
     #   sphinx
+    #   sphinxcontrib-youtube
 roman-numerals==4.1.0
     # via
     #   -r requirements.txt
@@ -156,6 +157,8 @@ sphinx==9.1.0
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
+    #   sphinxcontrib-video
+    #   sphinxcontrib-youtube
 sphinx-autobuild==2025.8.25
     # via -r requirements_dev.in
 sphinx-intl==2.3.2
@@ -192,6 +195,10 @@ sphinxcontrib-serializinghtml==2.0.0
     # via
     #   -r requirements.txt
     #   sphinx
+sphinxcontrib-video==0.4.2
+    # via -r requirements.txt
+sphinxcontrib-youtube==1.4.1
+    # via -r requirements.txt
 starlette==0.52.1
     # via sphinx-autobuild
 urllib3==2.6.3
