@@ -5,7 +5,7 @@ IATI Account
 `IATI Account <https://account.iatistandard.org/>`_ lets you manage the information that IATI holds about you and your organisation. If your organisation reports IATI data, you can manage information about your data files via IATI Account as well. 
 
 Which IATI tools are supported?
-------------------------------
+--------------------------------
 You can sign in to `IATI Publisher <https://publisher.iatistandard.org/>`_ with your IATI Account. 
 
 No other IATI services support IATI Account yet, but the IATI Secretariat is planning to integrate more. While this work continues, existing login methods will continue to work. 
