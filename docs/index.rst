@@ -1,5 +1,5 @@
 **************************
-IATI Account Documentation
+IATI Account
 **************************
 
 
