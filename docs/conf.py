@@ -45,9 +45,7 @@ html_theme_options = {  # See https://iati-sphinx-theme.readthedocs-hosted.com/e
     "languages": ["en", "fr", "es"],
     "project_title": _("IATI Account: Documentation"),
     "show_download_links": True,
-    "tool_nav_items": {
-        "IATI Account": "https://account.iatistandard.org/en/"
-    },
+    "tool_nav_items": {"IATI Account": "https://account.iatistandard.org/en/"},
 }
 
 # Add any paths that contain custom static files (such as style sheets, videos,
