@@ -6,7 +6,7 @@ IATI Account
 
 1) If you want to use IATI tools, follow the instructions on `how to register with IATI <https://docs.account.iatistandard.org/en/latest/register_with_iati/>`_.
 
-2) If you need to publish data on behalf of your organisation, see `how to create or request to join an organisation <https://docs.account.iatistandard.org/en/latest/create_organisation/>`_, and `how to manage your data files <https://docs.account.iatistandard.org/en/latest/manage_data_files/>`_.
+2) If you need to publish data on behalf of your organisation, register (as above) then see `how to join an organisation <https://docs.account.iatistandard.org/en/latest/create_organisation/>`_.
 
 .. note::
     You only need to join an organisation if you are publishing IATI data. This step is not required otherwise.
