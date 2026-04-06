@@ -3,7 +3,12 @@
 Add yourself to an organisation
 ================================
 
-If you plan to publish IATI data, you will be prompted to select or add your organisation in IATI Account after completing the user onboarding survey.
+If you want to publish IATI data, you must be linked to the organisation you’re publishing on behalf of.
+
+Before creating a new organisation, check whether yours is already registered with IATI.
+
+.. important::
+    You only need to join an organisation if you plan to publish data. If you just want to use IATI tools, :ref:`registering as a user <user_new_registration>` is enough.
 
 Search for an existing organisation
 ------------------------------------
