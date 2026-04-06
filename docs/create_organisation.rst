@@ -8,7 +8,7 @@ If you want to publish IATI data, you must be linked to the organisation you’r
 Before creating a new organisation, check whether yours is already registered with IATI.
 
 .. important::
-    You only need to join an organisation if you plan to publish data. If you just want to use IATI tools, registering as a user is enough.
+    You only need to join an organisation if you plan to publish data. If you just want to use IATI tools, :ref:`registering as a user <user_new_registration>` is enough.
 
 Search for an existing organisation
 ------------------------------------
