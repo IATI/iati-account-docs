@@ -14,7 +14,7 @@ IATI Account
 
 Which IATI tools are supported?
 --------------------------------
-You can sign in to `IATI Publisher <https://publisher.iatistandard.org/>`_ and `AidStream <https://aidstream.org/>`_ with your IATI Account credentials. Your username is your email address.
+You can sign in to `IATI Publisher <https://publisher.iatistandard.org/>`_ or `AidStream <https://aidstream.org/>`_ with your IATI Account credentials. Your username is your email address.
 
 No other IATI services support single sign-on yet, but the IATI Secretariat is planning to integrate more. While this work continues, existing login methods will continue to work.
 
