@@ -5,16 +5,16 @@ Edit your user profile
 
    Some user profile functionality is yet to be launched. This page will be updated as and when new features become available.
 
-Changing your password
------------------------
-It is not yet possible to change your password from within IATI Account.
 
-Instead, you can reset it by clicking "Forgot password" on the sign in screen:
+Profile information
+--------------------
+While signed in to IATI Account, you can view the information you entered for the onboarding survey on the `My Account page <https://account.iatistandard.org/en/account/>`_.
 
-.. figure:: images/forgot_password.png
-    :width: 50 %
-    :align: center
-    :alt: A screenshot of how to reset password from the sign in screen.
+On this page, you can edit your:
+
+- Name
+- Preferred languages
+- Country and time zone
 
 
 Deleting your user account
