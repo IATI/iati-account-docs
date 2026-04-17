@@ -37,7 +37,8 @@ No other IATI services support single sign-on yet, but the IATI Secretariat is p
    :caption: Your Account
 
    Register with IATI <register_with_iati>
-   Edit your user profile <edit_profile>
+   Change your password <change_password>
+   Manage your profile <edit_profile>
 
 
 .. toctree::
