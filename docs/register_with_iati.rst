@@ -27,4 +27,4 @@ After signing in to IATI Account for the first time, you will be prompted to com
     :alt: Screenshot of the onboarding survey that a new user sees when they sign in to IATI Account
 
 .. tip::
-    If you want to publish IATI data, follow the guidance on :ref:`how to add yourself to an organisation <create_organisation>` next.
+    If you want to publish IATI data, follow the guidance on :ref:`how to join an organisation <join_organisation>` next.

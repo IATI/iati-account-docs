@@ -1,7 +1,7 @@
-.. _`create_organisation`:
-================================
-Add yourself to an organisation
-================================
+.. _`join_organisation`:
+=====================
+Join an organisation
+=====================
 
 If you want to publish IATI data, you must be linked to the organisation you’re publishing on behalf of.
 

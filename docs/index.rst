@@ -4,9 +4,9 @@ IATI Account
 
 `IATI Account <https://account.iatistandard.org/>`_ lets you manage the information that IATI holds about you and your organisation. 
 
-1) If you want to use IATI tools, follow the instructions on `how to register with IATI <https://docs.account.iatistandard.org/en/latest/register_with_iati/>`_.
+1) If you want to use IATI tools, follow the instructions on :ref:`how to register with IATI <user_new_registration>`.
 
-2) If you need to publish data on behalf of your organisation, register (as above) then see `how to join an organisation <https://docs.account.iatistandard.org/en/latest/create_organisation/>`_.
+2) If you need to publish data on behalf of your organisation, register (as above) then see :ref:`how to join an organisation <join_organisation>`.
 
 .. note::
     You only need to join an organisation if you are publishing IATI data. This step is not required otherwise.
@@ -49,7 +49,7 @@ No other IATI services support single sign-on yet, but the IATI Secretariat is p
 
    Add an organisation <create_organisation>
    Manage organisation information <manage_organisation_info>
-   Add or edit users <manage_organisation_users>
+   Add or remove users <manage_organisation_users>
    Manage your data files <manage_data_files>
 
 

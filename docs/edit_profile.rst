@@ -1,3 +1,5 @@
+.. _`edit_user_profile`:
+=======================
 Edit your user profile
 =======================
 
@@ -17,6 +19,6 @@ On this page, you can edit your:
 - Country and time zone
 
 
-Deleting your user account
----------------------------
-Contact `IATI Support <https://iatistandard.org/en/guidance/get-support/>`_ if you need to delete your account.
+Deleting your account
+---------------------
+`Contact us <https://iatistandard.org/en/guidance/get-support/>`_ if you want to delete your user account.
