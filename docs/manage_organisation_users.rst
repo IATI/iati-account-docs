@@ -19,29 +19,6 @@ A list of users will be displayed in a table at the bottom of your organisation'
 
 Only admin users can make changes to your organisation's user list. We encourage admins to regularly check this list to ensure that it is up to date.
 
-User permissions
------------------
-There are three different roles that a user can have within your organisation:
-
-* **Contributor** - this is the lowest permission level. Contributors can add data files or update file metadata.
-
-* **Editor** - In addition to contributor permissions, editors can delete data files and update their organisation's information.
-
-* **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
-
-Admins can change another user's role by editing it in the 'Users' table. Select a new option from the 'role' column dropdown menu for the intended user:
-
-.. figure:: images/change_user_role.png
-    :width: 100 %
-    :align: center
-    :alt: Select from one of the "role" dropdown menu options to change a user's permissions
-
-Saving the change will make it effective immediately:
-
-.. figure:: images/save_user_role.png
-    :width: 100 %
-    :align: center
-    :alt: Click "Save Changes" for the new user role to take effect
 
 Add a new user
 ---------------
@@ -66,3 +43,26 @@ Tick the checkbox in the "Remove" column next to the intended user and click "Sa
 Removing a user will remove them from your organisation, but not delete their IATI account. For information on account deletion, see :ref:`how to manage your profile <edit_user_profile>`.
 
 
+User permissions
+-----------------
+There are three different roles that a user can have within your organisation:
+
+* **Contributor** - this is the lowest permission level. Contributors can add data files or update file metadata.
+
+* **Editor** - In addition to contributor permissions, editors can delete data files and update their organisation's information.
+
+* **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
+
+Admins can change another user's role by editing it in the 'Users' table. Select a new option from the 'role' column dropdown menu for the intended user:
+
+.. figure:: images/change_user_role.png
+    :width: 100 %
+    :align: center
+    :alt: Select from one of the "role" dropdown menu options to change a user's permissions
+
+Saving the change will make it effective immediately:
+
+.. figure:: images/save_user_role.png
+    :width: 100 %
+    :align: center
+    :alt: Click "Save Changes" for the new user role to take effect
