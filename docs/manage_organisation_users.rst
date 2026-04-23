@@ -3,14 +3,14 @@
 Manage your organisation's users
 ==================================
 
-To view the users associated with your organisation, go to your organisation's page and select "View/Edit Users" from the right-hand menu:
+To view who's associated with your organisation, go to your organisation's page in IATI Account and select "View/Edit Users" from the right-hand menu:
 
 .. figure:: images/view_edit_users_selection.png
     :width: 100 %
     :align: center
     :alt: The "View/Edit Users" menu option on your organisation page will show the table of users
 
-A list of users will be displayed in a table at the bottom of your organisation's page in IATI Account:
+A list of users will be displayed in a table at the bottom of your organisation's page:
 
 .. figure:: images/view_org_users.png
     :width: 100 %
@@ -21,7 +21,7 @@ Only admin users can make changes to your organisation's user list. We encourage
 
 User permissions
 -----------------
-There are three different roles, with associated permissions, that a user can have within your organisation:
+There are three different roles that a user can have within your organisation:
 
 * **Contributor** - this is the lowest permission level. Contributors can add data files or update file metadata.
 
@@ -29,16 +29,14 @@ There are three different roles, with associated permissions, that a user can ha
 
 * **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
 
-Admins can change another user's role at any time via their organisation's page.
-
-To do this, select a new option from the 'role' column dropdown menu for the intended user:
+Admins can change another user's role by editing it in the 'Users' table. Select a new option from the 'role' column dropdown menu for the intended user:
 
 .. figure:: images/change_user_role.png
     :width: 100 %
     :align: center
     :alt: Select from one of the "role" dropdown menu options to change a user's permissions
 
-Remember to save to ensure the change takes effect:
+Saving the change will make it effective immediately:
 
 .. figure:: images/save_user_role.png
     :width: 100 %
