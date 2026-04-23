@@ -1,5 +1,4 @@
 .. _`edit_user_profile`:
-
 Edit your user profile
 =======================
 
