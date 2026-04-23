@@ -21,7 +21,7 @@ Only admin users can make changes to your organisation's user list. We encourage
 
 User permissions
 -----------------
-There are three different permission levels that a user can have within your organisation:
+There are three different roles, with associated permissions, that a user can have within your organisation:
 
 * **Contributor** - this is the lowest permission level. Contributors can add data files or update file metadata.
 
@@ -29,16 +29,16 @@ There are three different permission levels that a user can have within your org
 
 * **Admin** - this is the highest permission level. In addition to editor permissions, admins can approve new users to join the organisation and set user permission levels. They can also update the public visibility of their organisation's data files.
 
-Admin users can change other users' permission levels at any time via their organisation's page.
+Admins can change another user's role at any time via their organisation's page.
 
-To do this, click on the user's "role" that you want to change and select a new option from the dropdown menu:
+To do this, select a new option from the 'role' column dropdown menu for the intended user:
 
 .. figure:: images/change_user_role.png
     :width: 100 %
     :align: center
     :alt: Select from one of the "role" dropdown menu options to change a user's permissions
 
-Remember to save this to ensure the change takes effect:
+Remember to save to ensure the change takes effect:
 
 .. figure:: images/save_user_role.png
     :width: 100 %
@@ -51,11 +51,11 @@ All new users should follow the :ref:`instructions on how to register with IATI 
 
 When a user has registered with IATI and requested to join an existing organisation, all admin users of that organisation will receive an email notification. 
 
-One of the admin users will need to approve the new user's request, which will grant them access to the organisation's information and data files.
+One of the admins will need to approve the new user's request, which will grant them access to the organisation's information and data files.
 
 
-Remove a new user
--------------------
+Remove a user
+--------------
 You should remove a user from your organisation if they are no longer involved in your IATI publishing.
 
 Tick the checkbox in the "Remove" column next to the intended user and click "Save Changes":
