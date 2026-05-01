@@ -47,7 +47,7 @@ No other IATI services support single sign-on yet, but the IATI Secretariat is p
    :maxdepth: 4
    :caption: Publishing Data
 
-   Add an organisation <create_organisation>
+   Join an organisation <join_organisation>
    Manage organisation information <manage_organisation_info>
    Add or remove users <manage_organisation_users>
    Manage your data files <manage_data_files>
