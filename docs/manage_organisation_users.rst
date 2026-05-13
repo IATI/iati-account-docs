@@ -63,6 +63,6 @@ Tick the checkbox in the "Remove" column next to the intended user and click "Sa
     :align: center
     :alt: Click "Save Changes" for the new user role to take effect
 
-Removing a user will remove them from your organisation, but not delete their IATI account. For information on account deletion, see `how to manage your profile <edit_user_profile>`.
+Removing a user will remove them from your organisation, but not delete their IATI account. For information on account deletion, see :ref:`how to manage your profile <edit_user_profile>`.
 
 
