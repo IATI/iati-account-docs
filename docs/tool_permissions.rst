@@ -1,6 +1,6 @@
 .. _`tool_permissions`:
 ========================
-Manage tool permissions
+Manage third party tools
 ======================== 
 
 A `variety of tools are available <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/publishing-tools-and-services-to-create-your-iati-data-files/>`_ to help organisations publish IATI data. The two most commonly used are:
