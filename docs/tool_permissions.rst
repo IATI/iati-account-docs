@@ -1,6 +1,6 @@
 .. _`tool_permissions`:
 ========================
-Manage third party tools
+Manage tool permissions
 ======================== 
 
 A `variety of tools are available <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/publishing-tools-and-services-to-create-your-iati-data-files/>`_ to help organisations publish IATI data. The two most commonly used are:
@@ -49,7 +49,7 @@ In this section, you will see a list of tools that currently have permission to 
 .. figure:: images/third_party_tools_list.png
     :width: 100 %
     :align: center
-    :alt: A screenshot of the list of third party tools the example organisation has authorised.
+    :alt: A screenshot of the list of third-party tools the example organisation has authorised.
 
 |
 
@@ -76,7 +76,7 @@ You can revoke a tool's permission at any time by checking the box in the 'Revok
 .. figure:: images/third_party_tools_revoke_access.png
     :width: 100 %
     :align: center
-    :alt: A screenshot of how to revoke acccess to an authorised third party tool.
+    :alt: A screenshot of how to revoke acccess to an authorised third-party tool.
 
 |
 
@@ -90,4 +90,4 @@ Which tools can I authorise?
 ----------------------------
 Currently, only IATI Publisher and AidStream work with IATI's Register Your Data service — these are the only two tools you can authorise via IATI Account, bearing in mind that your organisation should only be actively using one of them at a time.
 
-Other third party tools may choose to use the Register Your Data service in future, in which case this page will be updated.
+Other third-party tools may choose to use the Register Your Data service in future, in which case this page will be updated.
