@@ -51,7 +51,7 @@ No other IATI services support single sign-on yet, but the IATI Secretariat is p
    Manage organisation information <manage_organisation_info>
    Add or remove users <manage_organisation_users>
    Manage your data files <manage_data_files>
-   Manage third party tools <tool_permissions>
+   Manage tool permissions <tool_permissions>
 
 
 .. toctree::
