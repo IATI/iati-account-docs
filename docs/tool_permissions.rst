@@ -35,7 +35,7 @@ How do I manage tool permissions?
 ----------------------------------
 While signed in to IATI Account, you can view the reporting organisations you're associated with on the `'My Data' <https://account.iatistandard.org/en/data/>`_ page. Clicking 'View Organisation' will show the full details for your organisation in IATI Account.
 
-This includes a 'Third Party Tools' section:
+The organisation page includes a 'Third Party Tools' section:
 
 .. figure:: images/third_party_tools_header.png
     :width: 100 %
@@ -71,7 +71,7 @@ If you need to authorise a new tool, you can select it in the dropdown menu unde
 How do I revoke a tool's permissions?
 -------------------------------------
 
-You can revoke a tool's permission at any time by checking the box in the 'Revoke Authorisation' column, then clicking 'Remove':
+You can revoke a tool's permission at any time by checking the box in the 'Revoke Authorisation' column, then clicking 'Save Changes':
 
 .. figure:: images/third_party_tools_revoke_access.png
     :width: 100 %
