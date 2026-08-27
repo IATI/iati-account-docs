@@ -1,7 +1,7 @@
 IATI Registry Migration (Dec 2025)
 ==================================
 
-The `IATI Registry <https://iatiregistry.org/>`_ was permanently replaced by a new site, `IATI Account <https://account.iatistandard.org/en/>`_, in December 2025. You can find more information about the migration on IATI Connect: `IATI Registry Relaunch (Dec 2025) <https://www.iaticonnect.org/technical-cop/stream/topic/iati-registry-relaunch-scheduled-dec-2025>`_.
+The `IATI Registry <https://iatiregistry.org/>`_ was permanently replaced by a new site, `IATI Account <https://account.iatistandard.org/en/>`_, in December 2025. You can find more information about the migration on IATI Connect: `IATI Registry Relaunch (Dec 2025) <https://connect.iatistandard.org/post/update-iati-registry-relaunch-coming-dec-2025-13837420>`_.
 
 Read-only information about IATI reporting organisations and their data files is now available on the `IATI Dashboard <https://dashboard.iatistandard.org/publishers/>`_. 
 
