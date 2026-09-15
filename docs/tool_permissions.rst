@@ -19,9 +19,9 @@ In some cases, third-party publishing tools may need permission to change your o
 |
 
 
-Why do tool providers need this permission?
+Why do tool suppliers need this permission?
 -------------------------------------------
-Third-party tool providers should only make changes to your organisation's IATI datasets in the following cases:
+Third-party tool suppliers should only make changes to your organisation's IATI datasets in the following cases:
 
 * **To troubleshoot an issue** — for example, if your organisation is unable to publish data.
 * **To fulfil a direct request from your organisation** — for example, to unpublish data.
@@ -82,7 +82,7 @@ You can revoke a tool's permission at any time by checking the box in the 'Revok
 
 .. caution::
 
-   Revoking a tool's permission will affect the provider's ability to support you if you need help with your data publishing. We don't recommend doing this if your organisation is still actively using the tool for publishing.
+   Revoking a tool's permission will affect the supplier's ability to support you if you need help with your data publishing. We don't recommend doing this if your organisation is still actively using the tool for publishing.
 
 |
 
